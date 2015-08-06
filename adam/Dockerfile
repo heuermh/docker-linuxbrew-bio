@@ -1,4 +1,4 @@
-FROM heuermh/apache-spark131
+FROM heuermh/apache-spark
 MAINTAINER Michael Heuer <heuermh@acm.org>
 
 # see https://github.com/bigdatagenomics/adam/issues/747
@@ -12,4 +12,3 @@ RUN brew install maven \
   && mvn clean package -DskipTests
 
 ENV PATH /home/linuxbrew/adam/bin:$PATH
-ENV SPARK_HOME /home/linuxbrew/.linuxbrew/Cellar/apache-spark131/1.3.1/libexec
