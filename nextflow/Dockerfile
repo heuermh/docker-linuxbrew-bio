@@ -1,5 +1,5 @@
 FROM sjackman/linuxbrew
 MAINTAINER Michael Heuer <heuermh@acm.org>
 
-RUN brew tap homebrew/versions \
-  && brew install apache-spark131
+RUN brew tap homebrew/science \
+  && brew install nextflow

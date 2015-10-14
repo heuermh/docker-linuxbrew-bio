@@ -6,5 +6,6 @@ Docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/l
  * docker pull [heuermh/apache-spark131](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/apache-spark131)
  * docker pull [heuermh/apache-spark121](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/apache-spark121)
  * docker pull [heuermh/freebayes](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/freebayes)
+ * docker pull [heuermh/nextflow](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snpeff)
  * docker pull [heuermh/snpeff](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snpeff)
  * docker pull [heuermh/vep](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/vep)

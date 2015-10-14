@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y \
   libjson-perl
 
 USER linuxbrew
-RUN brew tap homebrew/science && \
-  brew install htslib && \
-  brew tap chapmanb/homebrew-cbl && \
-  brew install vep
+RUN brew tap homebrew/science \
+  && brew install htslib \
+  && brew tap chapmanb/homebrew-cbl \
+  && brew install vep
