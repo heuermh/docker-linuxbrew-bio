@@ -2,4 +2,5 @@ FROM sjackman/linuxbrew
 MAINTAINER Michael Heuer <heuermh@acm.org>
 
 RUN brew tap homebrew/science \
-  && brew install nextflow
+  && brew install nextflow \
+  && nextflow -version
