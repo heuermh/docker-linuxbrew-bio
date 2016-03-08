@@ -9,6 +9,7 @@ Docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/l
  * docker pull [heuermh/dsh-bio-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/dsh-bio-dev)
  * docker pull [heuermh/freebayes](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/freebayes)
  * docker pull [heuermh/nextflow](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/nextflow)
+ * docker pull [heuermh/optitype](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/optitype)
  * docker pull [heuermh/snpeff](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snpeff)
  * docker pull [heuermh/vep](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/vep)
 
