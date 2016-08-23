@@ -6,5 +6,5 @@ RUN apt-get update && apt-get install -y \
   python-setuptools
 
 USER linuxbrew
-RUN brew tap chapmanb/homebrew-cbl \
+RUN brew tap homebrew/science \
   && brew install freebayes
