@@ -1,4 +1,4 @@
-FROM sjackman/linuxbrew
+FROM linuxbrew/linuxbrew
 MAINTAINER Michael Heuer <heuermh@acm.org>
 
 RUN brew update \
