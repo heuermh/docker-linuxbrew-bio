@@ -11,6 +11,7 @@ Docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/l
  * docker pull [heuermh/optitype](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/optitype)
  * docker pull [heuermh/snpeff](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snpeff)
  * docker pull [heuermh/vep](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/vep)
+ * docker pull [heuermh/vt](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/vt)
 
 Deprecated docker images, as older versions of Apache Spark have been removed from Homebrew versions.
 
