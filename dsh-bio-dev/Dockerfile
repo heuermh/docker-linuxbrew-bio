@@ -3,7 +3,7 @@ MAINTAINER Michael Heuer <heuermh@acm.org>
 
 USER root
 RUN apt-get update && apt-get install -y \
-  openjdk-7-jdk
+  openjdk-8-jdk
 
 USER linuxbrew
 RUN brew install maven \
