@@ -6,6 +6,8 @@ Docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/l
  * docker pull [heuermh/apache-spark](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/apache-spark)
  * docker pull [heuermh/bedtools](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/bedtools)
  * docker pull [heuermh/bcftools](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/bcftools)
+ * docker pull [heuermh/bowtie](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/bowtie)
+ * docker pull [heuermh/bowtie2](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/bowtie2)
  * docker pull [heuermh/dsh-bio-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/dsh-bio-dev)
  * docker pull [heuermh/freebayes](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/freebayes)
  * docker pull [heuermh/nextflow](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/nextflow)
