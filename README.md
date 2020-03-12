@@ -1,6 +1,11 @@
 # docker-linuxbrew-bio
 
-Docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/linuxbrew/).
+Docker images of bioinformatics software built on Ubuntu.
+
+ * docker pull [heuermh/seqwish-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/seqwish-dev)
+ * docker pull [heuermh/snap-aligner-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snap-aligner-dev)
+
+Deprecated docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/linuxbrew/).
 
  * docker pull [heuermh/adam](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/adam)
  * docker pull [heuermh/adam-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/adam-dev)
@@ -17,10 +22,6 @@ Docker images of bioinformatics software built with [Linuxbrew](http://brew.sh/l
  * docker pull [heuermh/snpeff](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snpeff)
  * docker pull [heuermh/vep](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/vep)
  * docker pull [heuermh/vt](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/vt)
-
-Docker images of bioinformatics software built on Ubuntu.
-
- * docker pull [heuermh/snap-aligner-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snap-aligner-dev)
 
 Deprecated docker images, as older versions of Apache Spark have been removed from Homebrew versions.
 
