@@ -33,4 +33,4 @@ RUN cmake -H. -Bbuild && cmake --build build -- -j3
 RUN apt-get -qy autoremove
 
 # add seqwish to the PATH
-ENV PATH bin:$PATH
+ENV PATH /seqwish/bin:$PATH
