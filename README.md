@@ -2,6 +2,7 @@
 
 Docker images of bioinformatics software built on Ubuntu.
 
+ * docker pull [heuermh/odgi-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/odgi-dev)
  * docker pull [heuermh/seqwish-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/seqwish-dev)
  * docker pull [heuermh/snap-aligner-dev](https://github.com/heuermh/docker-linuxbrew-bio/tree/master/snap-aligner-dev)
 
